@@ -77,3 +77,6 @@ console.log(val3)//prints undefined in the output console or output terminal
 console.log(++val3)//prints NaN (.i.e., not a number)in the output
 console.log(val3++)//prints same NaN in the output
 console.log(val3)//prints same NaN in the output
+
+// link to study
+// https://tc39.es/ecma262/multipage/abstract-operations.html#sec-type-conversion
